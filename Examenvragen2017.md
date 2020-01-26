@@ -89,7 +89,7 @@ Seppe Snoeck
 1. Wat verstaan we onder beleid of management van een organisatie?
     * Het geheel aan regels, denkbeelden, maatregelen & handelswijzen die worden bepaald met het oog op het bereiken van een doelstelling
 1. Wanneer bestaat er een onderneming?
-    * ?
+    * Zodra een persoon of groep personen, die over het nodige kapitaal beschikken, aanvaarden een risico te nemen in een economisch project, en dit met als doel zoveel mogelijk winst te verwezelijken.
 1. Hoe wordt de waarde van de onderneming gemaximaliseerd?
     Het doel van de ondernemer bestaat erin de waarde van de onderneming te maximaliseren door middel van een 
 	-opbrengst voor diegenen die kapitaal ingebracht hebben (economische rol), 
